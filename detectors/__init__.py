@@ -1,0 +1,1 @@
+# Custom Slither detectors for DeFi security
